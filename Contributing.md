@@ -1,34 +1,13 @@
-The formula for Simple Interest (SI) is:
+Contribution guidelines Welcome Contributors! Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
 
-𝑆
-𝐼
-=
-𝑃
-×
-𝑅
-×
-𝑇
-100
-SI= 
-100
-P×R×T
-​
- 
-Where:
+Code style Please follow the coding style and conventions used in the existing codebase. This helps maintain consistency across the project.
 
-P = Principal amount
-R = Rate of interest per annum
-T = Time in years
+Documentation Ensure that your contributions are well-documented. Include comments in your code where necessary and provide a clear and concise description of your changes in the pull request.
 
+Testing Before submitting a pull request, make sure your changes have been tested thoroughly. Include relevant test cases and ensure that existing tests pass.
 
+Issue tracker Check the issue tracker for any open issues or feature requests. If you're working on something, please comment on the issue to let others know.
 
+Code review All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
 
-
-# Given values for simple interest calculation
-P = 1000  # Principal amount in dollars
-R = 5      # Rate of interest per annum in percentage
-T = 3      # Time in years
-
-# Simple Interest formula
-SI = (P * R * T) / 100
-SI
+Thank you for your contribution!
